@@ -1,7 +1,7 @@
 Alchem Theme
 ============
 
-Based on Bootstrap and coded with HTML5 and CSS3 language, Alchem is fully responsive in desktops and mobile devices. With enriched settings in theme options , you can not only change header and footer patterns, but also customize background colors, page layouts and social links. yet the theme is also featured with four different page layouts up to customers' needs. with the newly developed magee shortcode, one can easily create column, section, feature box, person, testimonial and much more. Anyone who wants to create a business site with WordPress may not miss this theme test.
+Based on Bootstrap and coded with HTML5 and CSS3 language, Alchem is fully responsive in desktops and mobile devices. With enriched settings in theme options , you can not only change header and footer patterns, but also customize background colors, page layouts and social links. yet the theme is also featured with four different page layouts up to customers' needs. with the newly developed magee shortcode, one can easily create column, section, feature box, person, testimonial and much more. Anyone who wants to create a business site with WordPress may not miss this theme.
 
 
 
